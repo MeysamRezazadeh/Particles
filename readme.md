@@ -1,4 +1,4 @@
-# Haunted-House
+# Particles
 Exercise - 3 (Particles) - Three.js
 
 ## Demo
